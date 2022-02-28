@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions parliamentary, concerning the rights of the Commons of England, and the duty of their representatives assembled in Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91598</idno>
+            <idno type="STC">Wing Q182D</idno>
+            <idno type="STC">ESTC R230137</idno>
+            <idno type="EEBO-CITATION">99895923</idno>
+            <idno type="PROQUEST">99895923</idno>
+            <idno type="VID">153506</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2368:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions parliamentary, concerning the rights of the Commons of England, and the duty of their representatives assembled in Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Rules and practice --  Early works to 1800.</term>
+               <term>Questions and answers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153506:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>QUESTIONS PARLIAMENTARY, Concerning the RIGHTS OF THE COMMONS of <hi>ENGLAND,</hi> AND THE DUTY OF THEIR REPRESENTATIVES Aſſembled in Parliament.</head>
+            <p n="1">1. WHether it be not the undoubted Right of every Commoner of <hi>En<g ref="char:EOLhyphen"/>gland</hi> to prefer Informations, and to Preſent and Proſecute any Crime or Miſdemeanor, contrary to the Laws and Cuſtoms of this Realm, againſt any Perſon whatſoever, before
+<pb n="2" facs="tcp:153506:2"/>
+               <!-- PDF PAGE 16 -->ſuch Judge or Judges as have Cognizance thereof? And whether the Houſe of Commons be not the only, or moſt proper Authority, to receive and hear Complaints of Crimes and Miſdemeanors committed by their own Members?</p>
+            <p n="2">2. Whether it be not the <hi>Special Duty</hi> of every Member of the Houſe of Commons to Preſent and impartially promote the Juſt and Reaſonable <hi>Petitions</hi> of any of thoſe for whom they ſerve, when required ſo to do? And whether the Refuſal or willfull Neglect thereof by any Member, be not a Breach of the Truſt repoſed in him?</p>
+            <p n="3">3. Whether ſuch a Refuſal or Neglect, when the Petition is for the Honor of the Prince, and of the Government, be not moreover a <hi>Diſreſpect,</hi> and Neg<g ref="char:EOLhyphen"/>lect of Duty to the <hi>Prince;</hi> and the ſlighting of ſuch a Petition by a Member who is alſo a Privy-Counſellor, a Miſdemeanor againſt his Duty in each of thoſe Capacities?</p>
+            <p n="4">4. Whether a <hi>Speaker</hi> of the Houſe of Commons hath any Privilege to exempt him from Complaints, for any Crime or Miſdemeanor, more than a Peer, or than any other Member of the Houſe of Commons hath?</p>
+            <p n="5">5. Whether it be not a ſpecial Branch of the Buſi<g ref="char:EOLhyphen"/>neſs and Duty of the Houſe of Commons, to enquire of all Hinderances and Diſcouragements of the <hi>Exe<g ref="char:EOLhyphen"/>cution of the Laws</hi> by Perſons in great Place and Authority; and to complain of them for it to the Prince; and to puniſh the ſame in their own Mem<g ref="char:EOLhyphen"/>bers as far as their Authority extends?</p>
+            <pb n="3" facs="tcp:153506:2"/>
+            <!-- PDF PAGE 16 -->
+            <p n="6">6. Whether to hinder or diſcourage the Execution of the Laws, be not a Miſdemeanor greatly <hi>aggra<g ref="char:EOLhyphen"/>vated</hi> in a Member of Parliament, by being com<g ref="char:EOLhyphen"/>mitted <hi>againſt the ſpecial Office and Duty of the Houſe?</hi> and more yet if committed by the Speaker him<g ref="char:EOLhyphen"/>ſelf?</p>
+            <p n="7">7. Whether the ſame Offence be not farther aggra<g ref="char:EOLhyphen"/>vated, if committed <hi>contrary to an expreſs Command of the Prince,</hi> who is obliged to command the ſtrict Execution of the Laws, upon any ſpecial Occaſion, as in caſe of a general Neglect of the Magiſtrates, and the like?</p>
+            <p n="8">8. Whether the ſame Offence be not farther greatly aggravated, by being <hi>done to countenance others com<g ref="char:EOLhyphen"/>bining together in the ſame Miſdemeanor,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the expreſs Command of the Prince?</p>
+            <p n="9">9. Whether ſuch a Miſdemeanor, with the Aggra<g ref="char:EOLhyphen"/>vations aforeſaid, be not ſuch an <hi>Inſolent and Pre<g ref="char:EOLhyphen"/>ſumptuous Contempt of the Royal Authority,</hi> as ought to be reſented accordingly by every Member, as well out of <hi>Duty and Fidelity to the Prince,</hi> as out of Duty and regard to the Honor of the Houſe?</p>
+            <p n="10">10. Whether the Houſe of Commons have not <hi>turned out, impriſon'd and impeach'd</hi> their own Mem<g ref="char:EOLhyphen"/>bers for Miſdemeanors, not greater in their own Nature, nor ſo aggravated with Variety of Evil Cir<g ref="char:EOLhyphen"/>cumſtances?</p>
+            <p n="11">11. Whether it doth not concern the Prince, and the Government, in reſpect of Intereſt and Safety, as well as of Honor, that the Royal Authority be kept up, and ſuch Inſolences and Miſdemeanors ſup<g ref="char:EOLhyphen"/>preſſed, by due Correction and Puniſhment of ſuch Offenders?</p>
+            <pb n="4" facs="tcp:153506:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <p n="12">12. Whether it be not the Right, neceſſary Duty and Wiſdom of the Commons of <hi>England,</hi> and of all Loyal and Faithful Subjects, to enquire and take ſpecial Notice of the Behaviour of their reſpective Repreſentatives, in all ſuch caſes, wherein the Honor and Intereſt of the Prince, the Safety and Peace of the Government, or their own Rights are in any ſpecial manner concerned?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
